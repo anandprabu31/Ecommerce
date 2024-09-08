@@ -1,0 +1,20 @@
+.search::placeholder{
+  color: black;
+}
+.search{
+  color: black !important; 
+}
+.prod{
+  padding-top: 10rem; 
+}
+.cartimg{
+  width: 35px;  
+  height: 40px;
+  margin-top: 12px;
+}
+.cart-badge {
+  position: absolute; 
+  top: 30px; 
+  right: 148px; 
+  font-size: 10px; 
+}
